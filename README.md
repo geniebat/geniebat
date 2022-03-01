@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geniebat
+- 👋 Hi, I’m @geniestructure
 - 👀 I’m interested in programmimg, data science, in a way the digital science
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming professionals in the engineering sciences as a structure .
